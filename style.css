@@ -65,12 +65,13 @@
     cursor: pointer;
 }
 
-.profile-box button {
+.profile-card button {
     background: #fff;
-    color: #ff574a;
+    color: #4a71ff;
     border: none;
     outline: none;
-    box-shadow:0 5px 10px rgba(244, 67, 54, 0.5);
+    /*box-shadow:0 5px 10px rgba(244, 67, 54, 0.5);*/
+    box-shadow: 0 5px 10px rgba(74, 113, 255, 0.5);
     padding: 15px 60px;
     margin-bottom: -50px;
     border-radius: 30px;
@@ -79,7 +80,11 @@
     cursor: pointer;
 }
 
-.profile-box h3 {
+.profile-card button :hover {
+    background: #4a71ff;
+}
+
+.profile-card h3 {
     font-size: 22px;
     font-weight: 500;
     margin-top: 20px;
