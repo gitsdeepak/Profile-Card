@@ -24,6 +24,7 @@
     color: #ffff;
     position: relative;
     border-radius: 20px;
+    box-shadow: 20px 20px 60px #000000, -20px -20px 60px #000000;
 }
 
 .menu-icon {
