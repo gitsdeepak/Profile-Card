@@ -52,12 +52,12 @@
 .profile-bottom {
     background: #fff;
     color: #999;
-    padding: 60px 0;
+    padding: 40px 0;
     margin-right: -90px;
     margin-left: -90px;
     margin-bottom: -40px;
     margin-top: -10px;
-    border-radius: 20px;
+    border-radius: 50px;
 }
 
 .profile-bottom img {
