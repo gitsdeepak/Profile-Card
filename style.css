@@ -81,7 +81,7 @@
     cursor: pointer;
 }
 
-.profile-card button :hover {
+.profile-card button:hover {
     background: #4a71ff;
 }
 
