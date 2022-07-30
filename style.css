@@ -83,6 +83,7 @@
 
 .profile-card button:hover {
     background: #4a71ff;
+    color: #fff;
 }
 
 .profile-card h3 {
